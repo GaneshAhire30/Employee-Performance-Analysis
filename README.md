@@ -1,6 +1,6 @@
 # Employee-Performance-Analysis
 
-![Uploading Employee-Performance-Analysis.jpeg…]()
+![Employee-Performance-Analysis](https://github.com/user-attachments/assets/1322b44d-b72c-4793-9342-e49ee958710a)
 
 
 # PROJECT SUMMARY:
